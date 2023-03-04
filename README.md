@@ -1,10 +1,10 @@
-[# 💫 About Me:
+# 💫 About Me:
 
 🔭 I’m currently working as MEAN Stack web developer intern<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with new ideas which I can implement on my projects<br>🌱 I’m currently learning MEAN STACK Web Development<br>💬 Ask me about web development<br>⚡ Fun fact - I am lazy but "smart"<br> 📄 Know about my experiences [https://drive.google.com/file/d/1YAkQjS8gbX1ezxm8Vg9ow4-iYDPlf2k7/view?usp=share_link](https://drive.google.com/file/d/1YAkQjS8gbX1ezxm8Vg9ow4-iYDPlf2k7/view?usp=share_link)
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aslam___ts/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-aslam-t-s-a5885b246/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/taslam8797)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100040116191966) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aslam___ts/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-aslam-t-s-a5885b246/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/taslam8797)
 
 # 💻 Tech Stack:
 
@@ -37,4 +37,3 @@
 [![](https://visitcount.itsvg.in/api?id=muhammedaslam123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://www.facebook.com/profile.php?id=100040116191966)
